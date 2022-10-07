@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class LeaveMain {
     static Scanner input = new Scanner(System.in);
     static LeaveBAL bal = new LeaveBAL();
-
+//  main mehtod
     public static void main(String[] args) {
         int choice;
 
